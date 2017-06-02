@@ -2,6 +2,7 @@
 #define LIBDR0NR_H
 
 #include "Arduino.h"
+#include "com.h"
 
 class Dr0nr{
 protected: 
