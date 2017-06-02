@@ -8,7 +8,8 @@ protected:
 	//uint16_t rcDataRaw[8];
 	
 public:
-	InterCom();
+	Dr0nr(void );
+	//InterCom();
 };
 
 #endif
